@@ -1,5 +1,7 @@
 package jasper.out;
 
-public class Test {
+import org.bukkit.plugin.java.JavaPlugin;
+
+public class Test extends JavaPlugin{
 
 }
