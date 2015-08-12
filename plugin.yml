@@ -1,0 +1,7 @@
+name: Test
+main: minecraft.Test
+version: 1.0
+
+commands:
+  test:
+    description:
